@@ -1,0 +1,3 @@
+no arquivo "projeto_automatizacao" eu fiz um projeto no qual lia 
+e registrava produtos de uma tabela e escrevia em determinada ordem 
+em um site que simulava o site de uma empresa
